@@ -20,7 +20,7 @@ Welcome to my digital headquarters. I’m a developer, bilingual (or trilingual)
 
 ### 📈 Action Items & Deliverables
 
-1.  Ship efficient, grounded code (leaving `import antigravity` strictly for the flight sims).
+1.  Ship efficient, grounded code.
 2.  Streamline my CLI architectures and push continuous framework improvements.
 3.  Synergize my local Git commits with the cloud without causing a catastrophic merge conflict.
 
