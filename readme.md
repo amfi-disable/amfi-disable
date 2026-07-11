@@ -12,7 +12,7 @@ Welcome! I'm a developer focusing on systems, terminal applications, browser ext
 * **OmniFormat**: An automated document compiler and formatting processor that coordinates case briefs and ensures layout compliance.
 * **Architecture**: Centrally backed by a shared SQLite database with SQLAlchemy ORM and versioned via Alembic migrations.
 
-### [GeoFS-V3.9 Ecosystem](https://github.com/amfi-disable/GeoFS-V3.9_Ecosystem)
+### [GeoFS-V3.9 Ecosystem](https://github.com/stars/amfi-disable/lists/geofs-v3-9-ecosystem)
 *A professional-grade suite of modular flight deck enhancements, avionics overlays, and physics simulators for the GeoFS browser-based flight simulator.*
 * **Core Foundation**: Standardized core libraries and coordinate managers supporting modular add-ons.
 * **Avionics & HUDs**: Flight Path Vector (ECEF projection), Autothrottle (PID controllers), Fuel Simulator, and Landing Statistics loggers.
